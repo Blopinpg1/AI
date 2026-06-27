@@ -5,10 +5,10 @@ This repository contains my AI semester lab assignments for the AI subject.
 ## Project Structure
 
 - `lab1/`
-  - `GWCp.ipynb` - notebook for AI lab work
+  - `GWCp.ipynb` - notebook for  Goat, Wolf and Cabbage Problem using BFS
   - `nQueens.ipynb` - notebook solving the N-Queens problem
-  - `RNP.ipynb` - notebook for AI-related problem or algorithm work
-  - `WJP.ipynb` - notebook for AI-related problem or algorithm work
+  - `RNP.ipynb` - Robot Navigation Problem using BFS
+  - `WJP.ipynb` - notebook for Water Jug Problem using BFS
 - `lab2/`
   - `astar.py` - Python implementation of the A* search algorithm
 
